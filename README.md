@@ -22,7 +22,7 @@ Proyectos:
 
 Testimonios:
 
-![Testimonios](imagenes/screenshot4.png)
+[Testimonios](imagenes/screenshot4.png)
 
 Contacto:
 
